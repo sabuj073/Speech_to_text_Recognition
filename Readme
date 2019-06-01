@@ -1,0 +1,13 @@
+Install Dependencis
+
+1.Pyaudio
+  https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+  download approriate python version
+  Copy the file in root directory
+  open cmd go to the root directory
+  Command : pip install <Filename>
+  
+2. speech_recognition
+  Command: pip install Spechrecognition
+  
+  
